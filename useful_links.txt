@@ -1,1 +1,4 @@
 https://developers.arcgis.com/javascript/
+
+Dojo Stuff:
+https://developers.arcgis.com/javascript/3/jshelp/inside_dojo.html
