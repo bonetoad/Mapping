@@ -1,4 +1,7 @@
+Arcgis Stuff:
 https://developers.arcgis.com/javascript/
+https://developers.arcgis.com/javascript/latest/sample-code/sandbox/index.html?sample=get-started-mapview - Sandbox for playing around with code
+https://developers.arcgis.com/javascript/latest/api-reference/esri-Map.html - Api Reference
 
 Dojo Stuff:
 https://developers.arcgis.com/javascript/3/jshelp/inside_dojo.html
