@@ -2,3 +2,6 @@ https://developers.arcgis.com/javascript/
 
 Dojo Stuff:
 https://developers.arcgis.com/javascript/3/jshelp/inside_dojo.html
+
+Angular Example:
+https://github.com/driskull/framework-samples-js/tree/master/ca-parks-angular
